@@ -8,3 +8,6 @@ DATA/app.db
 DATA/users.txt
 .streamlit/secrets.toml
 practice/
+Week 08 - Pulling Real Data/
+Iris.csv
+database.sqlite
